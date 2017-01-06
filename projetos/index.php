@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Mini Game bueda mini memo piki piki</title>
+  <title>Mini Game! By Tiago Santos</title>
   <link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
   <script src="jquery-3.1.1.min.js"></script>
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
